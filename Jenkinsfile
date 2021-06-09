@@ -96,7 +96,5 @@ pipeline {
                 sh "docker system prune --force --all"
         }
       }	  
-
   }
-
 }
